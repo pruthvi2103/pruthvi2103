@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvi2103&label=Profile%20views&color=000000&style=flat" alt="pruthvi2103" /> </p>
 
-- 🔭 I’m currently working on [Dear Diary 📖](https://github.com/Dear-Diary-Project)
+- 🔭 I’m currently working on [Janus 🌌	](https://github.com/pruthvi2103/Janus)
 
-- 🌱 I’m currently learning **Rust,React Native**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **JavaScript,Vue,React,JAM Stack,Python**
 
