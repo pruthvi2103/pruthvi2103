@@ -11,5 +11,14 @@
 
 - ⚡ Fun fact **I love Anime and Gaming!**
 
+<p>&nbsp;
+  <table>
+    <tr> <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvi2103&show_icons=true&theme=dark&locale=en" alt="pruthvi2103" /></td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi2103&layout=compact&hide=Jupyter%20Notebook&hide_border=true&theme=dark" alt="Pruthvi's Top Langs" />
+      </td>
+    </tr>
+   </table>
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvi2103&show_icons=true&theme=dark&locale=en" alt="pruthvi2103" /></p>
+</p>
