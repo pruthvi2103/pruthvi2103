@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvi2103&label=Profile%20views&color=000000&style=flat" alt="pruthvi2103" /> </p>
 
-- 🔭 I’m currently working on [Janus 🌌	](https://github.com/pruthvi2103/Janus)
+- 🔭 I’m working at [Antstack Inc.](https://www.antstack.com/) as a FullStack Developer
 
 - 🌱 I’m currently learning **Go**
 
