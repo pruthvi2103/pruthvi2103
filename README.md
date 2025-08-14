@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🌎 I'm Pruthvi Shetty</h1>
-<h3 align="center">An Full Stack Developer from India</h3>
+<h3 align="center">A Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvi2103&label=Profile%20views&color=000000&style=flat" alt="pruthvi2103" /> </p>
 
