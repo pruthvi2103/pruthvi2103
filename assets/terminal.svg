@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="336" viewBox="0 0 860 336" role="img" aria-labelledby="t d">
   <title id="t">pruthvi@bengaluru</title>
-  <desc id="d">A terminal. whoami: Pruthvi Shetty, software engineer, Bengaluru. cat now.txt: employee #4 at Seezo, LLMs that review software designs for security. ls side-quests: strata, presenta, pdf-unlock. echo $WEEKEND: anime and games. A small red spider dangles from a web in the corner.</desc>
+  <desc id="d">A terminal. whoami: Pruthvi Shetty, software engineer, Bengaluru. cat now.txt: employee #4 at Seezo, LLMs that review software designs for security. ls side-quests: strata, presenta, pdf-unlock. echo $WEEKEND: movies, anime, games and ssh into the home server. A small red spider dangles from a web in the corner.</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
     .p { fill: #3fb950; }
@@ -108,7 +108,7 @@
     <rect class="cover" x="46" y="237" width="121.7" height="22" fill="#0d1117" style="--w:117.7px;animation-duration:1s;animation-delay:5.4s;animation-timing-function:steps(13)"/>
   </g>
   <g class="l" style="animation-delay:6.7s">
-    <text x="28" y="278" class="wk">anime &amp;&amp; games</text>
+    <text x="28" y="278" class="wk">movies &amp;&amp; anime &amp;&amp; games &amp;&amp; ssh home-server</text>
   </g>
 
   <g class="l" style="animation-delay:7.2s">

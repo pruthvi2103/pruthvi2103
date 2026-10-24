@@ -2,21 +2,31 @@
   <img src="./assets/terminal.svg" width="100%" alt="A terminal. whoami prints Pruthvi Shetty, software engineer, Bengaluru. cat now.txt prints: employee #4 at Seezo, LLMs that review software designs for security. A small red spider dangles from a web in the corner.">
 </p>
 
-I'm a full-stack engineer who wandered into LLM systems and application security, then stayed. Since 2021 I've shipped React component libraries, Django APIs, LLM pipelines and Kubernetes manifests. Some features needed all four.
+I'm a frontend engineer pivoting to full-stack. I started with Vue in college, then spent three years shipping React frontends and a component library at AntStack. At Seezo the work kept going down the stack: Django APIs, LLM pipelines, Kubernetes manifests. Some features needed all of it.
 
 These days I'm employee #4 at [Seezo](https://seezo.io), where LLMs review software designs for security flaws before anyone writes the code. My job is making that hold up when a real customer is watching.
 
 ## The main quest is private
 
-Roughly 4 in 5 of my 5,000+ contributions live in private repos, so most of my graph is anonymous green squares. Here's what's behind them.
+Roughly 4 in 5 of my 5,000+ contributions live in private repos, so most of my graph is anonymous green squares. Here's what's behind them, frontend first.
 
-| | What I've built at Seezo |
+### Frontend: where I started
+
+| | At Seezo |
+|---|---|
+| **UI systems** | A shared DataTable kit with filtering, sorting and column visibility built in, a Linear-style filter menu, view state deep-linked through the URL, and a data flow diagram editor with PDF export |
+| **Migrations** | The React rewrite of the core product screens, a Tailwind v4 migration, and codemods that removed `forwardRef` across the codebase |
+| **Speed** | Fixed an assessment page that froze when switching tabs, and moved PDF export into the browser and off the server workers |
+| **Testing** | The Playwright E2E suite and its CI, built from nothing and kept green through the rewrite and the Tailwind migration |
+
+### Full-stack: where I'm heading
+
+| | At Seezo |
 |---|---|
 | **LLM plumbing** | Structured outputs that survive AWS Bedrock, prompt caching through LiteLLM, and concurrency caps that ride out proxy timeout storms |
-| **Performance** | Per-tenant LLM config behind an LRU cache of frozen, structurally shared dataclasses. Also deleted a per-row correlated subquery from the main dashboard |
+| **Backend performance** | Per-tenant LLM config behind an LRU cache of frozen, structurally shared dataclasses. Also deleted a per-row correlated subquery from the main dashboard |
 | **Security** | Immutable audit logging with a SIEM pull endpoint, error sanitising so secrets never reach the logs, OIDC redirect state kept out of query strings |
 | **Range** | One Slack feature across four repos: Django code, a self-supervising listener, an ECS service and a Kubernetes deployment |
-| **Quality** | The Playwright E2E suite and its CI, built from nothing and kept green through a Tailwind v4 migration and a platform rewrite |
 
 This year I've reviewed more pull requests than I've opened: 263 against 216, as of October 2026. Somewhere along the way I became the person the code goes through.
 
@@ -71,7 +81,7 @@ A GitHub Action redraws this every night. The snake counts the private squares t
 - I've judged a hackathon: Hack3, 375+ high schoolers from 54 countries.
 - My Hacktoberfest 2020 PR was written in Rust. It got merged.
 - My notes, workouts and budget live in an Obsidian vault that Claude helps me run. This README was drafted in there.
-- Weekends default to anime and games.
+- On weekends I'm a cinephile, with anime and games in between. The rest of my free time goes into configuring my home server.
 
 ## Say hi
 
